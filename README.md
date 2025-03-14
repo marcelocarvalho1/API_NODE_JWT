@@ -9,4 +9,5 @@ Este projeto é um backend desenvolvido em Node.js com as seguintes tecnologias.
 - 🌐 **Express** (`express: ^4.21.2`): Framework web minimalista para Node.js.
 - 🔑 **Jsonwebtoken** (`jsonwebtoken: ^9.0.2`): Implementação de tokens JWT para autenticação segura.
 
+  
 - Link do Front-end: https://github.com/marcelocarvalho1/FRONT-END-REACT?tab=readme-ov-file
